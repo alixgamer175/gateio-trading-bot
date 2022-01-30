@@ -66,15 +66,3 @@ To run Black:
 
 
 <p>&nbsp;</p>
-
-**For a step-by-step guide on how to set it up and configure please see the guide here:** [Binance new coin trading bot guide](https://www.cryptomaton.org/2021/10/17/a-binance-and-gate-io-crypto-trading-bot-for-new-coin-announcements//)
-
-
-<p>&nbsp;</p>
-
-**The new coins crypto trading bot explained in more detail.<br>
-See the video linked below for an explanation and rationale behind the bot.**
-
-[![binance new coin listings bot](https://img.youtube.com/vi/mIa9eQDhubs/0.jpg)](https://youtu.be/SsSgD0v16Kg)
-
-Want to talk trading bots? Join the discord [https://discord.gg/Ga56KXUUNn](https://discord.gg/Ga56KXUUNn)
