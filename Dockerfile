@@ -1,5 +1,5 @@
 # API Dockerfile
-FROM python:3.9-alpine
+FROM python:3.13.0a4-alpine
 
 # Copy requirements file
 COPY requirements.txt .
