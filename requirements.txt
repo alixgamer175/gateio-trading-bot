@@ -2,3 +2,4 @@
 requests==2.25.1
 gate_api==4.22.2
 PyYAML==6.0
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
